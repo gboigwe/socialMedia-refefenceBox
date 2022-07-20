@@ -1,0 +1,35 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "This is a project out of training for social media app, created with react and node js. A full MERN STACK application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "JavaScript",
+    "Single",
+    "Page",
+    "Application",
+    "Social",
+    "Media",
+    "App"
+  ],
+  "author": "Akande Gbolahan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "moongoose": "^0.0.5",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.18"
+  }
+}

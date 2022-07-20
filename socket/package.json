@@ -1,0 +1,22 @@
+{
+  "name": "chattingplatform",
+  "version": "1.0.0",
+  "description": "This a messaging chat platform embedded in the Reference Box",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "chat",
+    "message",
+    "messaging",
+    "reference",
+    "linkedin"
+  ],
+  "author": "Akande Gbolahan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  }
+}
